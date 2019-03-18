@@ -22,7 +22,7 @@ Quantum Time: 3
 Average Time: (23 + 22 + 14 + 12 + 25)/ 5 = 19.2 
 
 
-Ready Queue=[P1,P5,P2,P4,P3,P1,P5,P2,P1,P5]
+Ready Queue=[~~P1~~ , ~~P5~~ , ~~P2~~ , ~~P4~~ , ~~P3~~ , ~~P1~~ , ~~P5~~ , ~~P2~~ , ~~P1~~ , ~~P5~~ ]
 
 ## Gantt Chart 
 | Process No.|  P1   |  P5   |  P2   | P4   |  P3   |  P1   | P5    | P2    | P1    | P5    |
