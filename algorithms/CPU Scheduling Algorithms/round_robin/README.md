@@ -11,7 +11,7 @@
 ## Solution:
 Quantum Time: 3
 
-| Process   | Arrival Time| Burst Time | RT(Remaining time) | CT(Completed time) | TAT(Turn Around Time)[CT- AT] |  WT(Waiting time)[TAT - BT]  | 
+| Process   | Arrival Time| Burst Time | RT(Remaining time) | CT(Completion time) | TAT(Turn Around Time)[CT- AT] |  WT(Waiting time)[TAT - BT]  | 
 |    :---:  |     :---:   |     :---:  |      :---:         |       :---:        |            :---:              |      :---:                   |
 |    P1     |     `0`     |     `7`    |      [4, 1, 0]     |       `23`         |           23 - 0  = `23`      |      23 - 7 = `16`           |
 |    P2     |     `5`     |     `5`    |      [2, 0]        |       `22`         |           22 - 5  = `17`      |      17 - 5 = `12`           |
