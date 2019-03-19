@@ -59,7 +59,7 @@ if __name__ == "__main__":
     waiting_time = find_waiting_time(process_num, burst_time, quantum_time)
     tat = find_turn_around_time(process_num, burst_time, waiting_time)
 
-    print("Processes Number     Turn Around Time     Waiting Time")
+    print("Process Number     Turn Around Time     Waiting Time")
     for num in range(process_num):
         print(num + 1, "\t\t\t\t\t ", tat[num], '\t\t\t\t\t', waiting_time[num])
 
